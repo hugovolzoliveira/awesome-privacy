@@ -65,6 +65,10 @@
       text-decoration: none;
       max-width: 50%;
       min-width: 25%;
+      white-space: nowrap;
+      &:not(:first-child) {
+        flex-shrink: 0;
+      }
       &:not(:last-child) {
         margin-right: var(--space-sm);
       }
