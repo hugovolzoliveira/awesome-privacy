@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T22:18:29Z",
+  "generatedAt": "2026-10-02T20:46:29Z",
   "processedShas": [
     "02125ec429ec1ce9c5acdec1604703cb058a7887",
     "02231fb0a59ee43f93c6d0143640284cb7587d71",
@@ -189,6 +189,7 @@
     "cd00f6446dcb52ac0e94e47b0ae7db3f7cc916e2",
     "d027f6bf3eb4420f106b6778fa302f326a05f08c",
     "d397fc760983ced96c6d187305c0ea210ac6cece",
+    "d3ce9466fbf255e744fe8ca4200a67d1f85c57dc",
     "d80c4314af6e5f0cc150d5e2b3cba7329932c7f2",
     "d835706239a1a20d3cd98d511a82038823dbef9e",
     "da7374ad750bd07bc42649cfdd09edd14901cc40",
@@ -470,9 +471,33 @@
     819,
     821,
     822,
-    823
+    823,
+    828
   ],
   "entries": [
+    {
+      "date": "2026-10-02",
+      "sha": "d3ce9466fbf255e744fe8ca4200a67d1f85c57dc",
+      "pr": {
+        "number": 827,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/827",
+        "author": "Nerdykidtech",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/147286013?v=4"
+      },
+      "changes": {
+        "services": {
+          "added": [
+            {
+              "name": "Autheris",
+              "category": "Essentials",
+              "section": "2-Factor Authentication"
+            }
+          ]
+        },
+        "sections": {},
+        "categories": {}
+      }
+    },
     {
       "date": "2026-09-29",
       "sha": "4785185e15a54bfa0afc92ac9b506d6d8a26d808",
@@ -7335,6 +7360,16 @@
     }
   ],
   "rejections": [
+    {
+      "date": "2026-10-02",
+      "title": "Add BusinessOS to Secure Budgeting",
+      "pr": {
+        "number": 828,
+        "url": "https://github.com/lissy93/awesome-privacy/pull/828",
+        "author": "ytinsta1741-ops",
+        "authorAvatar": "https://avatars.githubusercontent.com/u/310610221?v=4"
+      }
+    },
     {
       "date": "2026-09-27",
       "title": "Adds Obfusk8 to Metadata Removal",
