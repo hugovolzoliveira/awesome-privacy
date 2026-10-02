@@ -322,6 +322,17 @@ categories:
           Chronos Authenticator is a free, open-source two-factor authentication app for iOS, designed to provide robust
           security and reliable backup options.
 
+      - name: Autheris
+        url: https://autheris.app
+        icon: https://autheris.app/assets/img/app-icon-192.png
+        openSource: true
+        github: nerdykidtech/Autheris
+        iosApp: https://apps.apple.com/us/app/autheris/id6760686327
+        followWith: iOS
+        description: |
+          Open-source 2FA authenticator for iPhone, iPad, Mac and Apple Watch. Secrets stay
+          in the device Keychain, with no account, no analytics and optional iCloud Sync
+
       furtherInfo: >
         Check which websites support multi-factor authentication: [2fa.directory](https://2fa.directory/)
       notableMentions: >
