@@ -247,6 +247,16 @@ categories:
           Simple, native, open source 2-FA Client for iOS, which never connects to the
           internet - built by @mattrubin.me
 
+      - name: Autheris
+        url: https://autheris.app
+        icon: https://autheris.app/assets/img/app-icon-192.png
+        github: nerdykidtech/Autheris
+        iosApp: https://apps.apple.com/us/app/autheris/id6760686327
+        followWith: iOS
+        description: |
+          Open-source 2FA authenticator for iPhone, iPad, Mac and Apple Watch. Secrets stay
+          in the device Keychain, with no account, no analytics and optional iCloud Sync
+
       - name: Authenticator GNOME
         url: https://gitlab.gnome.org/World/Authenticator
         git: https://gitlab.gnome.org/World/Authenticator
