@@ -27,7 +27,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 
 - **Essentials**
 	- [Password Managers](#password-managers) (8)
-	- [2-Factor Authentication](#2-factor-authentication) (11)
+	- [2-Factor Authentication](#2-factor-authentication) (12)
 	- [File Encryption](#file-encryption) (3)
 	- [Browsers](#browsers) (5)
 	- [Search Engines](#search-engines) (6)
@@ -133,7 +133,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 ### Password Managers
 
 - **[<img src='https://icon.horse/icon/bitwarden.com' width='14' alt='' /> Bitwarden](https://bitwarden.com)** - Fully-featured, open source password manager with cloud-sync. Bitwarden is easy-to-use with a clean UI and client apps for desktop, web and mobile. See also [Vaultwarden](https://github.com/dani-garcia/vaultwarden), a self-hosted, Rust implementa[…](https://awesome-privacy.xyz/essentials/password-managers/bitwarden "View full Bitwarden report") 
-- **[<img src='https://keepass.info/images/icons/keepass_256x256.png' width='14' alt='' /> KeePass](https://keepass.info)** - Hardened, secure and offline password manager. Does not have cloud-sync baked in, deemed to be [gold standard](https://keepass.info/ratings.html) for secure password managers. KeePass clients: [Strongbox](https://apps.apple.com/us/app/strongbox-keepass-pwsafe/id897283731) *(Mac & iOS)*, [KeePassDX](https://play.google.com/store/apps/details?id=com.kunzisoft.keepass.free) *(Android)*,[…](https://awesome-privacy.xyz/essentials/password-managers/keepass "View full KeePass report") 
+- **[<img src='https://keepass.info/images/icons/keepass_256x256.png' width='14' alt='' /> KeePass](https://keepass.info)** - Hardened, secure and offline password manager. Does not have cloud-sync baked in, deemed to be [gold standard](https://keepass.info/ratings.html) for secure password managers. KeePass clients: [Strongbox](https://apps.apple.com/us/app/strongbox-keepass-pwsafe/id897283731) *(Mac & iOS)*, [KeePassium](https://apps.apple.com/app/keepassium-keepass-passwords/id1435127111) *(Mac & iOS)*[…](https://awesome-privacy.xyz/essentials/password-managers/keepass "View full KeePass report") 
 - **[<img src='https://icon.horse/icon/lesspass.com' width='14' alt='' /> LessPass](https://lesspass.com)** - LessPass is a little different, since it generates your passwords using a hash of the website name, your username and a single main-passphrase that you reuse. It omits the need for you to ever need to[…](https://awesome-privacy.xyz/essentials/password-managers/lesspass "View full LessPass report") 
 - **[<img src='https://icon.horse/icon/proton.me' width='14' alt='' /> ProtonPass](https://proton.me/pass)** - From the creators of ProtonMail, ProtonPass is a new addition to their suite of services. They have a full collection of user-friendly native mobile and desktop apps. ProtonPass is one of the few "tru[…](https://awesome-privacy.xyz/essentials/password-managers/protonpass "View full ProtonPass report") 
 - **[<img src='https://www.zx2c4.com/favicon.ico' width='14' alt='' /> Pass](https://www.passwordstore.org/)** - The Standard Unix Password Manager 
@@ -172,6 +172,7 @@ corporations, governments, and hackers from logging, storing or selling your per
 - **[<img src='https://avatars.githubusercontent.com/u/15990069' width='14' alt='' /> Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)** - Bitwarden Authenticator is a free and open-source app which stores and generates time-based codes for multi-factor authentication. It can be used with an online account to backup and sync your tokens[…](https://awesome-privacy.xyz/essentials/2-factor-authentication/bitwarden-authenticator "View full Bitwarden Authenticator report") 
 - **[<img src='https://raw.githubusercontent.com/protonpass/android-pass/refs/heads/main/metadata/en-US/images/icon.png' width='14' alt='' /> Proton Authenticator](https://proton.me/authenticator)** - Proton Authenticator is free, open source, and available for both iOS and Android. A Proton account is required to use Proton Authenticator. Existing 2FA codes can be imported from other popular apps[…](https://awesome-privacy.xyz/essentials/2-factor-authentication/proton-authenticator "View full Proton Authenticator report") 
 - **[<img src='https://github.com/joeldavidw/Chronos/raw/main/.github/assets/logo.png' width='14' alt='' /> Chronos Authenticator](https://chronosauth.com)** - Chronos Authenticator is a free, open-source two-factor authentication app for iOS, designed to provide robust security and reliable backup options. 
+- **[<img src='https://autheris.app/assets/img/app-icon-192.png' width='14' alt='' /> Autheris](https://autheris.app)** - Open-source 2FA authenticator for iPhone, iPad, Mac and Apple Watch. Secrets stay in the device Keychain, with no account, no analytics and optional iCloud Sync 
 
 <details>
 <summary>✳️ <b>Notable Mentions</b></summary>
