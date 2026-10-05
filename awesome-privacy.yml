@@ -4852,6 +4852,15 @@ categories:
         followWith: Bitcoin or Ethereum & ERC-20 tokens
         github: digitalbitbox/bitbox-wallet-app
 
+      - name: Umbra
+        url: https://app.umbra.cash
+        icon: https://app.umbra.cash/icons/favicon-128x128.png
+        github: ScopeLift/umbra-protocol
+        followWith: Ethereum
+        openSource: true
+        description: |
+          Umbra is a stealth address protocol on the EVM. It allows users to send payments to a one-time address controlled by a recipient without their interaction, promoting unlinkability (if proper hygiene is followed) without resorting to mixers or pools.
+
       notableMentions: |
         [Vultisig](https://vultisig.com/) is a seedless, self-custodial wallet.
         It uses MPC threshold signatures to split your key across several devices you own,
