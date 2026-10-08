@@ -4914,6 +4914,9 @@ categories:
         is tagged with its KYC level, jurisdiction, supported payment methods, and a trust score
         reflecting audit history and known incidents.
 
+    - name: Crypto Tools
+      services: []
+
     - name: Virtual Credit Cards
       alternativeTo: ['visa', 'mastercard', 'american express', 'discover', 'capital one']
       intro: |
